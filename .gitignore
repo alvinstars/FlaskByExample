@@ -1,0 +1,5 @@
+default.ipynb
+.ipynb_checkpoints
+test
+*.pyc
+private
