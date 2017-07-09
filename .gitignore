@@ -3,3 +3,4 @@ default.ipynb
 test
 *.pyc
 private
+.idea
